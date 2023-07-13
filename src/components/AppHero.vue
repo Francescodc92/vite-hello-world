@@ -14,7 +14,7 @@ export default{
   </div>
 </template>
 
-<style>
+<style scoped>
   .img-wrapper{
     margin: 0 auto;
     max-width: 500px;
